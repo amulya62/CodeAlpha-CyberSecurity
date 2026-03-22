@@ -1,12 +1,11 @@
- Projects Added
+ # CodeAlpha-CyberSecurity
+## Projects Added
 
- 🔐 Password Strength Checker
- 
+### 🔐 Password Strength Checker
 - Checks password strength using Python
 
-🔐 Secure Login System
-
+### 🔐 Secure Login System
 - User registration and login
-- Password hashing 
+- Password hashing (SHA-256)
 - Hidden password input
 - Login attempt limit
