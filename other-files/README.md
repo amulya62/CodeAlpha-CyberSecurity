@@ -6,9 +6,6 @@ The client sends a request and the server responds.
 Files Included
 client.py – Client program that connects to the server
 server.py – Server program that listens for client requests
-client.jpeg – Screenshot of client output
-server.jpeg – Screenshot of server output
-server connection.jpeg – Screenshot showing connection between client and server
 
 Technologies Used
 Python
